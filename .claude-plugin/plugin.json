@@ -1,0 +1,21 @@
+{
+  "name": "zhipu-skills",
+  "version": "1.0.0",
+  "description": "智谱 (Zhipu) AIGC skills — text, image, video generation, TTS, OCR, VLM, Embedding",
+  "author": {
+    "name": "AIGC Skills Community"
+  },
+  "homepage": "https://github.com/full-aigc-skills/zhipu-skills",
+  "repository": "https://github.com/full-aigc-skills/zhipu-skills",
+  "source": "./",
+  "skills": [
+    "./skills/zhipu-audio",
+    "./skills/zhipu-embedding",
+    "./skills/zhipu-humanoid",
+    "./skills/zhipu-image-generation",
+    "./skills/zhipu-ocr",
+    "./skills/zhipu-text",
+    "./skills/zhipu-video-generation",
+    "./skills/zhipu-vlm"
+  ]
+}
