@@ -1,0 +1,4 @@
+interface:
+  display_name: "智谱文本生成"
+  short_description: "为文本生成或对话选择智谱模型，按任务约束组织调用方案"
+  default_prompt: "使用 $zhipu-text 为文本生成或对话选择智谱模型，按任务约束组织调用方案；先核对输入、可用能力和交付要求。"

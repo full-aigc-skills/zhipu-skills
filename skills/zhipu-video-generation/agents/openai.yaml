@@ -1,0 +1,4 @@
+interface:
+  display_name: "智谱视频生成"
+  short_description: "为智谱文生视频或图生视频选择模型，准备输入与调用方案"
+  default_prompt: "使用 $zhipu-video-generation 为智谱文生视频或图生视频选择模型，准备输入与调用方案；先核对输入、可用能力和交付要求。"

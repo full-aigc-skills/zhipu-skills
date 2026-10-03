@@ -1,0 +1,4 @@
+interface:
+  display_name: "智谱图片生成"
+  short_description: "为智谱文生图任务选择可用模型，准备输入并组织 API 调用"
+  default_prompt: "使用 $zhipu-image-generation 为智谱文生图任务选择可用模型，准备输入并组织 API 调用；先核对输入、可用能力和交付要求。"

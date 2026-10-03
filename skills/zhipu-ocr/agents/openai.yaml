@@ -1,0 +1,4 @@
+interface:
+  display_name: "智谱图片文字识别"
+  short_description: "从单张或多张图片提取文字，核对输入格式与识别结果，先核对输入与实际可用能力"
+  default_prompt: "使用 $zhipu-ocr 从单张或多张图片提取文字，核对输入格式与识别结果；先核对输入、可用能力和交付要求。"

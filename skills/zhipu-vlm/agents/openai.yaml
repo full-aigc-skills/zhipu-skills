@@ -1,0 +1,4 @@
+interface:
+  display_name: "智谱视觉理解"
+  short_description: "选择智谱多模态视觉模型，处理图片、视频或文档理解任务"
+  default_prompt: "使用 $zhipu-vlm 选择智谱多模态视觉模型，处理图片、视频或文档理解任务；先核对输入、可用能力和交付要求。"

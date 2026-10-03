@@ -1,0 +1,4 @@
+interface:
+  display_name: "智谱文本向量"
+  short_description: "选择智谱 Embedding 模型，将文本转为向量用于语义搜索或检索"
+  default_prompt: "使用 $zhipu-embedding 选择智谱 Embedding 模型，将文本转为向量用于语义搜索或检索；先核对输入、可用能力和交付要求。"
